@@ -1,0 +1,13 @@
+#div1 {
+  height: 400px;
+  width: 25%;
+  background-color: blue;
+  margin: 10px;
+}
+
+#div2 {
+  height: 200px;
+  width: 50%;
+  background-color: yellow;
+  margin: 10px;
+}
